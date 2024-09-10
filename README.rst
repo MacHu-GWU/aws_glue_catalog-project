@@ -50,7 +50,7 @@
 
 Welcome to ``aws_glue_catalog`` Documentation
 ==============================================================================
-.. image:: https://aws-glue-catalog.readthedocs.io/en/latest/_static/aws_glue_catalog-logo.png
+.. .. image:: https://aws-glue-catalog.readthedocs.io/en/latest/_static/aws_glue_catalog-logo.png
     :target: https://aws-glue-catalog.readthedocs.io/en/latest/
 
 AWS Glue Catalog tools.
